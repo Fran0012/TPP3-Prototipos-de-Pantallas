@@ -132,6 +132,7 @@
             // label5
             // 
             label5.AutoSize = true;
+            label5.BackColor = Color.LightCoral;
             label5.Location = new Point(32, 93);
             label5.Name = "label5";
             label5.Size = new Size(132, 20);
@@ -140,6 +141,7 @@
             // 
             // comboBox2
             // 
+            comboBox2.BackColor = Color.Salmon;
             comboBox2.FormattingEnabled = true;
             comboBox2.Items.AddRange(new object[] { "Larga distancia", "Ultima milla" });
             comboBox2.Location = new Point(32, 122);
@@ -271,7 +273,7 @@
             // 
             // textBox1
             // 
-            textBox1.BackColor = SystemColors.ControlLightLight;
+            textBox1.BackColor = SystemColors.ScrollBar;
             textBox1.Font = new Font("Segoe UI", 10.8F, FontStyle.Regular, GraphicsUnit.Point, 0);
             textBox1.Location = new Point(402, 45);
             textBox1.Name = "textBox1";
