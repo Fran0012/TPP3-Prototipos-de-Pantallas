@@ -12,6 +12,7 @@ namespace TPP3___Prototipos_de_Pantallas
             // see https://aka.ms/applicationconfiguration.
             ApplicationConfiguration.Initialize();
             Application.Run(new InicioSesion());
+            Application.Run(new F12_RevisionCCClientes());
         }
     }
 }
