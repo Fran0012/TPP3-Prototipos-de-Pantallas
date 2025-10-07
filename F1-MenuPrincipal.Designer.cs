@@ -241,9 +241,9 @@
             button11.BackColor = Color.Firebrick;
             button11.Font = new Font("Segoe UI", 9F, FontStyle.Bold, GraphicsUnit.Point, 0);
             button11.ForeColor = SystemColors.ButtonFace;
-            button11.Location = new Point(614, 524);
+            button11.Location = new Point(614, 558);
             button11.Name = "button11";
-            button11.Size = new Size(151, 69);
+            button11.Size = new Size(151, 44);
             button11.TabIndex = 10;
             button11.Text = "Cerrar sesión";
             button11.UseVisualStyleBackColor = false;
