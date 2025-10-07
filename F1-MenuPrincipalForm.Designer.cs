@@ -1,6 +1,6 @@
 ﻿namespace TPP3___Prototipos_de_Pantallas
 {
-    partial class F1_MenuPrincipal
+    partial class F1_MenuPrincipalForm
     {
         /// <summary>
         /// Required designer variable.

@@ -1,6 +1,6 @@
 ﻿namespace TPP3___Prototipos_de_Pantallas
 {
-    partial class InicioSesion
+    partial class InicioSesionForm
     {
         /// <summary>
         ///  Required designer variable.

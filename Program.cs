@@ -11,8 +11,8 @@ namespace TPP3___Prototipos_de_Pantallas
             // To customize application configuration such as set high DPI settings or default font,
             // see https://aka.ms/applicationconfiguration.
             ApplicationConfiguration.Initialize();
-            Application.Run(new InicioSesion());
-            Application.Run(new F12_RevisionCCClientes());
+            Application.Run(new InicioSesionForm());
+            Application.Run(new F12_RevisionCCClientes.F12_RevisionCCClientesForm());
         }
     }
 }

@@ -1,6 +1,6 @@
 ﻿namespace TPP3___Prototipos_de_Pantallas
 {
-    partial class F13_EmisionFactura
+    partial class F13_EmisionFacturaForm
     {
         /// <summary>
         /// Required designer variable.

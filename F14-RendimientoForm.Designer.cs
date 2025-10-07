@@ -1,6 +1,6 @@
 ﻿namespace TPP3___Prototipos_de_Pantallas
 {
-    partial class F14_Rendimiento
+    partial class F14_RendimientoForm
     {
         /// <summary>
         /// Required designer variable.

@@ -1,6 +1,6 @@
-﻿namespace TPP3___Prototipos_de_Pantallas
+﻿namespace TPP3___Prototipos_de_Pantallas.F12_RevisionCCClientes
 {
-    partial class F12_RevisionCCClientes
+    partial class F12_RevisionCCClientesForm
     {
         /// <summary>
         /// Required designer variable.

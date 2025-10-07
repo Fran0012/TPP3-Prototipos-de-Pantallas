@@ -8,11 +8,11 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace TPP3___Prototipos_de_Pantallas
+namespace TPP3___Prototipos_de_Pantallas.F12_RevisionCCClientes
 {
-    public partial class F12_RevisionCCClientes : Form
+    public partial class F12_RevisionCCClientesForm : Form
     {
-        public F12_RevisionCCClientes()
+        public F12_RevisionCCClientesForm()
         {
             InitializeComponent();
         }

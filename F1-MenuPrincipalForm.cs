@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace TPP3___Prototipos_de_Pantallas
 {
-    public partial class F1_MenuPrincipal : Form
+    public partial class F1_MenuPrincipalForm : Form
     {
-        public F1_MenuPrincipal()
+        public F1_MenuPrincipalForm()
         {
             InitializeComponent();
         }

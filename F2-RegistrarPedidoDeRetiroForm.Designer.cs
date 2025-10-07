@@ -1,6 +1,6 @@
 ﻿namespace TPP3___Prototipos_de_Pantallas
 {
-    partial class F2_RegistrarPedidoDeRetiro
+    partial class F2_RegistrarPedidoDeRetiroForm
     {
         /// <summary>
         /// Required designer variable.
@@ -285,7 +285,7 @@
             label17.Size = new Size(61, 20);
             label17.TabIndex = 19;
             label17.Text = "Tamaño";
-            label17.Click += this.label17_Click;
+            //label17.Click += this.label17_Click;
             // 
             // button1
             // 

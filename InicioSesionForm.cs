@@ -1,8 +1,8 @@
 namespace TPP3___Prototipos_de_Pantallas
 {
-    public partial class InicioSesion : Form
+    public partial class InicioSesionForm : Form
     {
-        public InicioSesion()
+        public InicioSesionForm()
         {
             InitializeComponent();
         }

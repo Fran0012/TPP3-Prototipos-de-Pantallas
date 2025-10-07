@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace TPP3___Prototipos_de_Pantallas
 {
-    public partial class F13_EmisionFactura : Form
+    public partial class F14_RendimientoForm : Form
     {
-        public F13_EmisionFactura()
+        public F14_RendimientoForm()
         {
             InitializeComponent();
         }

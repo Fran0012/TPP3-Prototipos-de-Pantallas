@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace TPP3___Prototipos_de_Pantallas
 {
-    public partial class F2_RegistrarPedidoDeRetiro : Form
+    public partial class F2_RegistrarPedidoDeRetiroForm : Form
     {
-        public F2_RegistrarPedidoDeRetiro()
+        public F2_RegistrarPedidoDeRetiroForm()
         {
             InitializeComponent();
         }
